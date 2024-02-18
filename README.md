@@ -1,2 +1,1 @@
-# WeatherApp
-Weather app
+WeatherWise offers you the most precise weather forecasts for your area taken into account. Whether it's your daily commute, a weekend trip, or just to be aware of the weather around you, WeatherWise has got your back.
